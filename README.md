@@ -19,9 +19,16 @@ ResearchReport.docx contains detailed explanation and discussion.
 ## Data
 
 Make sure the matlab files and Result folder are in the same directory to run the program.
-The actual result data from the experiment participants remain private. The data in the Result folder are samples meant to be used with the matlab file. 
+The folder does not contain the actual result data from the experiment because I do not own the right for the data. The data in the Result folder are samples meant for demonstration.
 
-Participants 
+Each participant completed 360 test trials. Each trial showed one causal action video and one non-causal action video, with a short time interval between them. Also, for each trial, one video was chosen as a reference video, which was always 18-frames long. 
+
+Accordingly, three levels were used in video selection: video-order level, video-reference level, and video-length level (see Figure 1). The video-order level had two conditions: causal-first condition (causal videos presented first) and non-causal-first condition (non-causal video presented first). The video-reference level had two conditions: causal-reference condition (causal video is a reference) and non-causal-reference condition (non-causal video is a reference).  
+
+<img src="Picture2.png" width="324" height="250">
+
+
+the mat files contain , to name a few. 
 
 ## Result
 
