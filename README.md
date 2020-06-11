@@ -25,7 +25,7 @@ Each participant completed 360 test trials. Each trial showed one causal action 
 
 Accordingly, three levels were used in video selection: video-order level, video-reference level, and video-length level (see Figure 1). The video-order level had two conditions: causal-first condition (causal videos presented first) and non-causal-first condition (non-causal video presented first). The video-reference level had two conditions: causal-reference condition (causal video is a reference) and non-causal-reference condition (non-causal video is a reference).  
 
-<img src="Picture2.png" width="324" height="250">
+<img src="Picture2.png" width="500" height="250">
 
 
 the mat files contain , to name a few. 
