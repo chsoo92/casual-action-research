@@ -1,8 +1,8 @@
-# casual-action-research-assistant
+# Hongjing Lu lab Research Project 1
 
 My project was a side project of https://journals.sagepub.com/doi/full/10.1177/0956797617697739 under the supervision of Yujia Peng and Hongjing Lu. 
 
-# background
+# Background
 
 Research on causality have shown that causality exerts overarching top-down influence on perception. Especially, many research have shown that casuality has a significant effect on motion perception: causal actions are more likely to be perceived as continuous or smooth even when the actions are in fact sudden and abrupt. 
 
