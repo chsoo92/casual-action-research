@@ -37,6 +37,9 @@ time.m executes the following:
 
 ![](Picture3.png)
 
+The null hypothesis in the present study was that causality in videos would have no effect on the perceived temporal duration (PSE = 0). One sample t-test was conducted to test the effect of casualty against the null hypothesis. The result showed that the main effect of causal video condition was significant: the obtained PSE values (M = -25.78, SD = 43.281) were significantly lower than PSE expected from the null hypothesis; t(29) = 0.46, p = 0.003. When causal videos were on average 25.78 ms shorter than non-causal videos, participants perceived causal and non-causal videos as equally long. In other words, when causal and non-causal videos were equally long, causal videos were perceived as longer. Thus, given the significant p value (p = 0.003), it is reasonable to accept the hypothesis that people are more likely to perceive causal videos as longer than non-causal videos. 
+
+
 analysis.m 
 
 For detailed discussion, refer to ResearchReport.docx.
