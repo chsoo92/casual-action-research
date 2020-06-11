@@ -40,6 +40,9 @@ time.m executes the following:
 The null hypothesis in the present study was that causality in videos would have no effect on the perceived temporal duration (PSE = 0). One sample t-test was conducted to test the effect of casualty against the null hypothesis. The result showed that the main effect of causal video condition was significant: the obtained PSE values (M = -25.78, SD = 43.281) were significantly lower than PSE expected from the null hypothesis; t(29) = 0.46, p = 0.003. When causal videos were on average 25.78 ms shorter than non-causal videos, participants perceived causal and non-causal videos as equally long. In other words, when causal and non-causal videos were equally long, causal videos were perceived as longer. Thus, given the significant p value (p = 0.003), it is reasonable to accept the hypothesis that people are more likely to perceive causal videos as longer than non-causal videos. 
 
 
+
+
+
 Rsquared.m performs 1) logistic regression of the proportion for causal reference and non-causal reference, 2) manually calcaulte R-squared to test goodness-of-fit, and 3) compare the calculated R-squared with that of built-in functions.
 
 The mean R-squared across participants was 0.8644 for causal reference videos and 0.8572 for non-causal reference videos. The calculated R-squared is indicative of how reliable the calculated PSEs are for causal and non-causal reference videos because PSEs are calculated from logistic regression. In comparison to built-in R-squared functions, the calculated R-squared values for causal reference are on average 0.0215 different for adjusted R-squared and 0.0019 for ordinary R-squared. Likewise, the calculated R-squared values for non-causal reference are on average 0.0266 different for adjusted R-squared and 0.0055 for ordinary R-squared. 
