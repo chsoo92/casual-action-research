@@ -6,8 +6,7 @@ My project was a side project of https://journals.sagepub.com/doi/full/10.1177/0
 
 The study aims to study the effect of causality on time perception. Previous experiments from the main project has shown that causality has a significant effect on motion perception: causal actions are more likely to be perceived as continuous or smooth even when 
 
-<img src="Picture1" width="48">
-
+![](Picture1.png)
 time.m 
 analysis.m 
 
