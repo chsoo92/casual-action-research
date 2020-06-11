@@ -14,11 +14,6 @@ If an agent throws a ball to another agent facing the thrower, their actions are
 
 Previous experiments by Yujia Peng found that people are more likely to perceive causal actions as smooth actions, even when there is a sudden frame change in receiving actions. Likewise, the present study aims to explore the effect of causality on time perception.
 
-time.m 
-
-
-analysis.m 
-
 ResearchReport.docx contains detailed explanation and discussion.
 
 ## Data
@@ -26,7 +21,14 @@ ResearchReport.docx contains detailed explanation and discussion.
 Make sure the matlab files and Result folder are in the same directory to run the program.
 The actual result data from the experiment participants remain private. The data in the Result folder are samples meant to be used with the matlab file. 
 
+Participants 
+
 ## Result
+
+time.m 
+
+
+analysis.m 
 
 
 
