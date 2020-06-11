@@ -14,30 +14,36 @@ If an agent throws a ball to another agent facing the thrower, their actions are
 
 Previous experiments by Yujia Peng found that people are more likely to perceive causal actions as smooth actions, even when there is a sudden frame change in receiving actions. Likewise, the present study aims to explore the effect of causality on time perception.
 
-ResearchReport.docx contains detailed explanation and discussion.
-
+For detailed information, refer to ResearchReport.docx.
 ## Data
 
 Make sure the matlab files and Result folder are in the same directory to run the program.
 The folder does not contain the actual result data from the experiment because I do not own the right for the data. The data in the Result folder are samples meant for demonstration.
 
-Each participant completed 360 test trials. Each trial showed one causal action video and one non-causal action video, with a short time interval between them. Also, for each trial, one video was chosen as a reference video, which was always 18-frames long. 
-
-Accordingly, three levels were used in video selection: video-order level, video-reference level, and video-length level (see Figure 1). The video-order level had two conditions: causal-first condition (causal videos presented first) and non-causal-first condition (non-causal video presented first). The video-reference level had two conditions: causal-reference condition (causal video is a reference) and non-causal-reference condition (non-causal video is a reference).  
+Each participant completed 360 test trials. Each trial showed one causal action video and one non-causal action video, with a short time interval between them. Also, for each trial, one video was chosen as a reference video, which was always 18-frames long. After participants saw two videos, they had to choose which video was longer.
 
 <img src="Picture2.png" width="500" height="250">
 
+Accordingly, three levels were used in video selection: video-order level, video-reference level, and video-length level. The video-order level had two conditions: causal-first condition (causal videos presented first) and non-causal-first condition (non-causal video presented first). The video-reference level had two conditions: causal-reference condition (causal video is a reference) and non-causal-reference condition (non-causal video is a reference).  
 
-the mat files contain , to name a few. 
+Each mat file contains to video selection data across all trials and the participant's reponse to each trial.
 
-## Result
 
-time.m 
+## Analysis & Result
+
+time.m executes the following:
+
+\subparagraph{subparagraph}
+\begin{longtable}{l}
+Since there were nine possible video frames, there were nine conditions for video-length differences between causal and non-causal videos: from -400 ms to 400 ms. For example, -400 ms indicated that causal videos were 400 ms shorter than non-causal videos. For each video-length difference condition, the proportion of causal videos perceived as longer was calculated. The regression of the proportion on video-length differences provided the point of subjective equality (PSE). 
+\end{longtable}
+
+
 
 
 analysis.m 
 
-
+For detailed discussion, refer to ResearchReport.docx.
 
 ## Authors
 
