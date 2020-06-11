@@ -5,6 +5,8 @@ One of the side projects of https://journals.sagepub.com/doi/full/10.1177/095679
 time.m 
 analysis.m 
 
+![Test Image 1](Picture1.png)
+
 ## Data
 
 Make sure the matlab files and Result folder are in the same directory to run the program.
