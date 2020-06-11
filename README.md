@@ -1,6 +1,6 @@
 # casual-action-research-assistant
 
-One of the side projects of https://journals.sagepub.com/doi/full/10.1177/0956797617697739 under the supervision of Yujia Peng and Hongjing Lu. 
+My project was a side projects of https://journals.sagepub.com/doi/full/10.1177/0956797617697739 under the supervision of Yujia Peng and Hongjing Lu. 
 
 time.m 
 analysis.m 
