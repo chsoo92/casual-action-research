@@ -33,10 +33,7 @@ Each mat file contains to video selection data across all trials and the partici
 
 time.m executes the following:
 
-\subparagraph{subparagraph}
-\begin{longtable}{l}
-Since there were nine possible video frames, there were nine conditions for video-length differences between causal and non-causal videos: from -400 ms to 400 ms. For example, -400 ms indicated that causal videos were 400 ms shorter than non-causal videos. For each video-length difference condition, the proportion of causal videos perceived as longer was calculated. The regression of the proportion on video-length differences provided the point of subjective equality (PSE). 
-\end{longtable}
+  Since there were nine possible video frames, there were nine conditions for video-length differences between causal and non-   causal videos: from -400 ms to 400 ms. For example, -400 ms indicated that causal videos were 400 ms shorter than non-         causal videos. For each video-length difference condition, the proportion of causal videos perceived as longer was             calculated. The regression of the proportion on video-length differences provided the point of subjective equality (PSE). 
 
 
 
